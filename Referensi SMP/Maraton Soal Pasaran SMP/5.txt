@@ -1,0 +1,63 @@
+﻿Soal Persiapan OSN (Paket 5)
+
+1. Diketahui pada sebuah segitiga siku-siku, sin x° adalah perbandingan sisi tegak depan sudut itu dengan sisi miring segitiga dan cos x° adalah perbandingan sisi tegak samping sudut itu dengan sisi miring segitiga. Diketahui sin (a+b) = sin a cos b + sin b cos a. Diketahui juga cos x° akan bernilai negatif jika sudut x lebih dari 90°, namun sin x° tetap positif. Jika pada segitiga ABC, sin A = 0.6 dan cos B = 5/13. Tentukan cos C.
+
+
+2. ABC segitiga sembarang dan D adalah titik pada BC. Titik E dan F terletak pada AB dan AC berturut-turut. Jika DE dan DF berturut-turut merupakan garis bagi segitiga ADB dan ADC. Tentukan nilai dari (AE/EB)*(BD/DC)*(CF/FA).
+
+
+3. Berapa banyak solusi (x,y) bilangan bulat positif sehingga memenuhi persamaan 27x+35y=945?
+
+
+4. Untuk n = 1,2,3,4,..., misalkan An = n^2 + 100 dan misalkan juga Dn adalah faktor persekutuan terbesar dari An dan A(n+1). Tentukan nilai maksimum dari Dn jika n adalah sembarang bilangan bulat positif.
+
+
+5. Jika f(n) adalah banyaknya angka nol pada bilangan n, misalnya f(1020103)=3 dan f(1112111)=0, maka tentukan nilai dari f(1)+f(2)+...+f(99999).
+
+
+6. Misalkan x bilangan real. Berapakah nilai minimum dari x^2 - 4x + 3?
+
+
+7. Jumlah dari dua bilangan prima adalah 99, tentukan hasil kali dari kedua bilangan tersebut.
+
+
+8. Jumlah dari dua faktor terkecil dari sebuah bilangan bulat N adalah 6, sedangkan jumlah dari dua faktor terbesarnya adalah 1122. Tentukan nilai N.
+
+
+9. Misalkan D adalah nilai mutlak dari selisih dari kedua akar persamaan 3x^2 - 10x - 201 = 0. Tentukan bilangan bulat terbesar yang lebih kecil dari D.
+
+
+10. Jika a,b, dan c adalah bilangan real tak nol yang memenuhi a + 2b + 3c = 2014 dan 2a + 3b + 2c = 2014, tentukan nilai dari (a^2 + b^2 + c^2)/(ac + bc - ab).
+
+
+11. Banyaknya solusi (x,y) bilangan bulat positif sehingga memenuhi persamaan 20x + 6y = 2006?
+
+
+12. PQR adalah segitiga siku-siku dengan sudut 90° di Q. Sebuah lingkaran C1 digambar dengan diameter PQ. Lingkaran lain C2 digambar dengan diameter QR. Lingkaran C1 dan C2 saling berpotongan dititik Q dan X. Jika PQ = 5 cm dan QR = 12 cm. QX = n cm. Tentukan nilai dari 2400/n.
+
+
+13. Tentukan nilai dari 1234567890987654321^2 - (1234567890987654322 × 1234567890987654320) tanpa menggunakan kalkulator.
+
+
+14. Tentukan nilai dari {(10^4 + 324)(22^4 + 324)(34^4 + 324)(46^4 + 324)(58^4 + 324)}/{(4^4 + 324)(16^4 + 324)(28^4 + 324)(40^4 + 324)(52^4 + 324)} tanpa menggunakan kalkulator.
+
+
+15. Tentukan jumlah dari kuadrat dari akar - akar persamaan 4x^4 - 4x^3 - 13x^2 + 9x + 9 = 0 jika diketahui jumlah dari dua akarnya adalah nol.
+
+
+16. Buktikan jika p prima, maka 6 habis membagi p^2 - 1.
+
+
+17. Russell melempar sebuah dadu 5 kali. M dan N berturut-turut adalah peluang hasil kali kelima angka pelemparan dadu adalah 144 dan 180. Tentukan yang mana yang peluangnya lebih besar, M atau N. Jelaskan juga mengapa.
+
+
+18. Banyaknya susunan kata dengan huruf-huruf dari kata OSNMATEMATIKADUARIBULIMABELASDANENAMBELAS adalah...
+
+
+19. Bila 11! = 3991x800. Tentukan nilai x.
+
+
+20. Bilangan 2^29 memiliki tepat 9 digit yang berbeda. Angka berapakah yang tidak ada?
+
+
+21. (Anulir) Di Indonesia, mobil sedan memiliki pelat nomor dengan format 2 huruf, 4 angka, dan 3 huruf. Bila huruf pertama hanya boleh A, B, atau C ; angka pertama harus tidak ada, 1, 2, atau 7 ; dua angka di tengah boleh tidak ada, maka tentukan peluang Russell akan mendapat plat nomor dengan format "B 1469 BFV"! Adapun maksud "tidak ada" dalam soal ini bisa dibilang angka 0.

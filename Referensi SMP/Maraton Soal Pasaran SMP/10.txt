@@ -1,0 +1,116 @@
+﻿Soal Persiapan OSN (Paket 10)
+
+1. A true or false exam has ten questions. How many possible answer keys are there?
+
+
+2. A quadruple choice test has 25 questions. If every question's number that ends with 4 or 6 always have an answer D, then how many possible answer keys are there?
+
+
+3. How many distinct factors does 4500000000 have?
+
+
+4. Let ABCD a square with side 1. M and N are points on BC and CD, respectively such that the perimeter of triangle CMN is 2. Suppose line AM and AN. What is the angle of MAN?
+
+
+5. I have a 5 digit number. When I multiply my number by four, i will get the reverse digit of my number. Guess my number. (i.e, the reverse digit of 12345 is 54321)
+
+
+6. What is the coefficient of xy^2 from the expansion (2x - 3y)^3?
+
+
+7. The area of distinct sides of a block are 288, 216, and 192 respectively. What is the volume of the block?
+
+
+8. Russell and his parents are going to paint their house. Russell can do the painting himself in 30 days, his mom can do it in 45 days, and his dad can do it in 27 days. At first, Russell and his mom paint their house together for 10 days, then Russell's dad finishes the rest by himself. How many days will his dad need to finish his job?
+
+
+9. If x + y = 4 and xy = -13. Find the value of x^2 + 7xy + y^2.
+
+
+10. Given f(3x + 1) = 6x + 3. Find the value of 3f(-3) + 6f(f(1).
+
+
+11. Given right-angled triangle ABC with <B = 90°. AB = BC = 10 cm and D is a point on AB such that CD is the bisector of <ACB. Find the length of AD.
+
+
+12. Let g is a line through the point (-2,3) with slope 3. Let also h is a line through point (-5,-7) and (4,11). Find the coordinate of the intersection of line g and h.
+
+
+13. I have one brother and one sister. My brother is five years older than my sister. The ratio of the age of my brother and my sister six years ago is 5 : 4. What is the age of my brother 9 years later?
+
+
+14. Evaluate √(1/1^3) + √(1/(1^3 + 2^3)) + ... + √(1/(1^3 + 2^3 + ... + 2015^3)).
+
+
+15. A square is covered by a design made up of four identical rectangles surrounding a central square. If the area of the central square is 16/36 of the area of the entire design, find the area of the rectangle! (It's hard to decide the picture)
+
+
+16. Find the positive integral solution (x , y) such that 7x + 19y = 2015.
+
+
+17. How many natural number solutions (x , y) such that 741x + 1209y = 4913?
+
+
+18. Show that for every natural number n, the fraction (35n + 7)/(21n + 4) cannot be simplified anymore.
+
+
+19. Let a number 123456789101112...90..., find the 500th digit.
+
+
+20. Find the number of positive integer solutions from the equation a + b + c + d = 102.
+
+
+21. Find the number of nonnegative integer solutions from the equation a + b + c + d = 102.
+22. Find the number of positive integer a, b, c, and d satisfying a + b + c + d = 98.
+
+
+23. Find the number of nonnegative integer a, b, c, and d satisfying a + b + c + d = 98.
+
+
+24. Let S is a set of 34 first nonnegative integers. What is the probability we choose 3 numbers such that the sum of the three numbers is an odd number?
+
+
+25. Find the prime solution (p , q) satisfying p = q + 2015.
+
+
+26. Proof that if a, b, and c are odd numbers then ax^2 + bx + c = 0 has no rational solution.
+
+
+27. If 20! + 14! = 243290a0953b4931200, find the value of a^2 + b.
+
+
+28. Find the third smallest value of n such that n has remainder 2 if divided by 5, 7 if divided by 9, and 1 if divided by 17.
+
+
+29. Find all values of integer n such that n + 11 is a factor of n^3 + 121.
+
+
+30. A minibike has a pair of wheels with diameter 42 cm. After the wheels roll over 50 times at a straight line, how far is the reached distance?
+
+
+31. Let f(n) denotes the number of positive integers less than n that is divisible by 7. Find the value of f(f(f(10.000))).
+
+
+32. A job when finished by A itself will take half an hour. By B, it will take 45 minutes. And by C will take 2160 seconds. First, A and B work together for 15 minutes, and C finishes the rest of the job. What time will C need to finish the rest of the job?
+
+
+33. If f(x) = x^2/(x^2 - 1), evaluate 101 × f(100) × f(99) × ... × f(3) × f(2).
+
+
+34. Find the sum of all possible n if 2n + 1 is a factor of 6n + 30.
+
+
+35. Given 3 nonnegative real numbers x, y, and z such that x/y = y/z = z/x. Find the value of (2013a + 2014b + 2015c)/(3a + 2b + c).
+
+
+36. If x is a real number and a = 2013x + 9997, b = 2013x + 9998, and c = 2013x + 9999, evaluate a^2 + b^2 + c^2 - ab - bc - ca.
+
+
+37. Let m and n are two different real numbers such that m^2 = n + 6 and n^2 = m + 6. Find the value of m^3 + n^3 - 8mn.
+
+
+38. Evaluate 2014 × 20132013 - 2013 × 20142013.
+39. A parallelogram is divided into four regions with distinct areas. Suppose the three region areas are 5, 10, 30, respectively and counterclockwise. What is the area of the fourth region. (Counterclockwise at this question means the first region is on the top left and so forth CCW-ly)
+
+
+40. An operation ¶ defined a ¶ b = a^3 + 4b^2 - 1. If 5 ¶ x = 150, x > 0, find the value of 8x^2.

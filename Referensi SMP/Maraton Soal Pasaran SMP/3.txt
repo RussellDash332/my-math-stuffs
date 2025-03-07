@@ -1,0 +1,60 @@
+﻿Soal Persiapan OSN (Paket 3)
+
+1. Jika p dan p^2+2 adalah bilangan prima, buktikan p^3+2 juga prima.
+
+
+2. Tentukan persamaan kuadrat yang bernilai positif untuk -7<x<1 dan jarak titik puncak kurva fungsi dengan titik O(0,0) adalah 5.
+
+
+3. Russell memilih sebuah bilangan real positif a secara acak dimana a merupakan pecahan dibawah 1 atau 1. Hal yang sama untuk bilangan real positif b yang Russell pilih kedua kali. Jika c=a/(a+b), tentukan peluang 0,25<=c<=0,75.
+
+
+4. Russell memilih sembarang bilangan real a dan b dari 0 sampai 1. Tentukan peluang persamaan kuadrat x^2-√(a)x+b=0 memiliki akar real positif.
+
+
+5. Tentukan jumlah dari x yang memenuhi (2x+1)(3x+1)(5x+1)(30x+1)=10
+
+
+6. Titik A dan B terletak pada parabola y=2x^2+4x-2. Titik O(0,0) merupakan titik tengah garis yang dihubungkan A dan B. Tentukan jarak titik A dan B.
+
+
+7. Sebuah kotak berisi 101 bola dan dinomori 1,2,3,...,101. Jika 3 bola diambil secara acak, berapakah peluang jumlah angka-angka dari bola yang diambil tersebut merupakan bilangan ganjil?
+
+
+8. Jika x=√(37-20√3), tentukan nilai dari (x^4-9x^3+5x^2-7x+68)/(x^2-10x+19).
+
+
+9. Jika a>b, 2^a+2^b=75 dan 2^-a+2^-b=12^-1. Tentukan 3^(a-b).
+
+
+10. Tentukan bilangan 4 digit sehingga 1000 lebihnya dari 2 kali bilangan itu sama dengan digit kebalikan dari bilangan itu. Contoh, digit kebalikan dari 1234 adalah 4321.
+
+
+11. O adalah titik pusat dari lingkaran dalam segitiga ABC. D adalah titik pada AC sehingga OD tegak lurus AC. Jika AB=10, AC=9, dan BC=11, tentukan panjang dari CD.
+
+12. Jumlah dari 50 bilangan bulat ganjil berurutan adalah 300850 tentukan bilangan ganjil yang terbesar tersebut.
+
+
+13. Hanya ada satu bilangan asli n sehingga n^2+n+a adalah bilangan kuadrat. Tentukan nilai n dalam a.
+
+
+14. Jika s adalah setengah dari keliling segitiga ABC, r adalah jari-jari lingkaran dalam, R adalah jari-jari lingkaran luar, dan a,b,c sisi-sisi segitiga ABC. Buktikan abc = 4srR.
+
+
+15. Misal p dan q adalah jari-jari lingkaran yang melalui titik A dan menyinggung sisi BC di titik B dan C. Bila R adalah jari-jari lingkaran luar segitiga ABC. Buktikan pq = R^2.
+
+
+16. Buktikan Dalil Ptolemy.
+
+
+17. Diketahui identitas sin^2(n)+cos^2(n) = 1 untuk setiap bilangan asli n dari 1 sampai 360. Jika a,b adalah akar dari persamaan kuadrat x^2+(sin 10°)x+1=0 dan c,d adalah akar dari persamaan kuadrat x^2+(cos 10°)x-1=0. Tentukan nilai dari a^-2+b^-2+c^-2+d^-2.
+18. Tentukan banyaknya bilangan positif a sehingga 4a^4+1 merupakan bilangan prima.
+
+
+19. Ada berapa banyak persegi pada papan persegi berpetak ukuran 10×10?
+
+
+20. Misalkan ada sebuah lingkaran k dengan diameter AB. Misalkan juga ada lingkaran l yang menyinggung lingkaran k di titik B dengan diameter BD. Misalkan juga titik C ditarik dari A sehingga menyinggung lingkaran l. Jika <CAD = 24°, tentukan besar <BDC.
+
+
+21. Terdapat segilima tali busur ABCDE dimana BD diameter dan sejajar dengan AE. Tariklah garis CA sehingga sudut CDB = 42° dan sudut CAE = 72°. Tentukan besar sudut DBA dan BDE.

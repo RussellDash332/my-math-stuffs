@@ -1,0 +1,61 @@
+﻿Soal Persiapan OSN (Paket 2)
+
+1. Tentukan koefisien a^5b^14c dari perpangkatan (a+b+c)^20
+
+
+2. Diketahui ABC segitiga sama sisi dengan sisi 21 cm. Titik D pada luar segitiga ABC sehingga <BDC = 120°. Titik M dan N pada AB dan AC berturut-turut sehingga <MDN = 60°. Tentukan keliling segitiga AMN.
+
+
+3. Tentukan nilai dari 5/6+13/36+35/216+97/1296+...
+
+
+4. Banyaknya bilangan berdigit 3 yang digitnya genap semua adalah...
+
+
+5. Russell memiliki sebuah laci berisi paling banyak 3000 bola dengan dua warna yang berbeda, merah dan putih. Russell mengambil 2 bola secara acak tanpa melihat ke dalam laci tersebut. Adapun peluang Russell mendapatkan dua bola dengan warna yang sama adalah 0,5. Tentukan banyak maksimal bola merah yang ada di dalam laci.
+
+
+6. A, B, C, D, dan E sedang bermain singa-macan. Masing-masing menjadi singa atau macan namun tidak keduanya. Singa selalu berkata jujur dan macan selalu berkata bohong. A berkata bahwa B adalah singa. D berkata bahwa A dan E adalah binatang yang berbeda. E berkata bahwa A bukan macan. B berkata bahwa C bukan singa. C berkata bahwa D merupakan macan. Banyaknya singa dalam permainan ini adalah...
+
+
+7. Ibu sedang mengumpulkan makanan dan minuman selama musim liburan dari toko belanja. Diketahui stok makanan akan habis dalam waktu 3 hari, kemudian akan ada stok yang baru lagi. Sedangkan stok minuman habis dalam waktu 2 hari, dan akan ada stok yang baru lagi. Asumsikan hanya Ibu hanya berbelanja di toko tersebut. Maka jika Ibu akan mengumpulkan makanan dan minuman selama 150 hari, berapa banyak kombinasi makanan dan minuman yang dapat Ibu simpan?
+
+
+8. Diketahui salah satu akar dari masing-masing persamaan kuadrat 2011x^2-ax+1102=0 dan 1102x^2-ax+2011=0 adalah sama. Tentukan nilai a.
+
+
+9. Berapa banyak bilangan diantara 1 sampai 700 yang secara inklusif tidak habis dibagi 3,5, atau 7?
+
+
+10. Russell membeli 5 tiket lotere. Peluang ia gagal lotre adalah 0,16666666...., berapa peluang ia menang lotre dalam mengambil 3 dari 5 lotere tersebut?
+
+
+11. Ada 10 orang ingin berpergian dengan 2 mobil. Dua dari sepuluh orang itu, siapapun, bisa menjadi pengemudi mobil. Jika kapasitas mobil pertama 6 orang dan kapasitas mobil kedua 7 orang. Tentukan banyaknya cara pendistribusian kesepuluh orang ke dalam mobil? Posisi di dalam mobil tidak dianggap.
+
+
+12. Jika g(f(x)) = (√(x^2-4x+5))/(x-2) dan g(x) = √(x^2+1). Tentukan f(x-3) jika f(x) >=0 dan x>2
+
+
+13. Buktikan untuk setiap bilangan asli n, 2013^n-1803^n-1781^n+1774^n habis dibagi 203.
+14. Buktikan bahwa perkalian dari 4 bilangan asli berurutan tidak pernah menghasilkan bilangan kuadrat.
+
+
+15. Jumlah dari 49 bilangan bulat berurutan adalah 7^5. Tentukan median dari ke49 bilangan tersebut.
+
+
+16. Misal x,y,z adalah bilangan real yang memenuhi persamaan : xy/(x+y)=1 ; xz/(x+z)=2 ; yz/(y+z)=3. Tentukan nilai dari 3x+2y+z.
+
+
+17. Russell sedang berjalan menuju sebuah tembok dari sebuah titik. Setiap langkah ia mengurangi setengah kecepatannya. Jadi, jika pada langkah pertama Russell melangkah 1 meter, berapa meterkah jarak titik awal ke tembok?
+
+
+18. Buktikan pertidaksamaan 4a-a^4<=3.
+
+
+19. Russell ingin mengerjakan soal-soal matematika pada buku OSNnya selama 100 hari. Pada hari pertama ia mengerjakan 1 soal. Pada hari kedua ia mengerjakan 2 soal. Pada hari ke-ab, ia mengerjakan a+b soal. Jadi, pada hari keseratus ia mengerjakan soal yang terakhir. Berapa soal yang ia kerjakan selama 100 hari?
+
+
+20. Buktikan a+b habis membagi a^n+b^n untuk n ganjil.
+
+
+21. Jika 10^987654321987654321 dibagi 7, berapakah sisa pembagiannya?

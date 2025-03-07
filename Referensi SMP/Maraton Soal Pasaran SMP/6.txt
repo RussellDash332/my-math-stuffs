@@ -1,0 +1,60 @@
+﻿Soal Persiapan OSN (Paket 6)
+
+1. Misalkan a, b, c, dan d adalah bilangan real positif yang memenuhi : bc = 6ad, ac = 6bd, ab = 6cd, a^2 + b^2 + c^2 = 1. Tentukan nilai dari (abcd)^-1.
+
+
+2. Jika akar dari persamaan x^2 - 3x + 1 = 0 juga merupakan akar dari persamaan x^4 + ax^3 + bx^2 + cx + 5 = 0, tentukan nilai dari a^2 - 2b^3 + c.
+
+
+3. Tentukan jumlah dari semua nilai x bilangan bulat yang memenuhi √(x + 3 - 4√(x - 1)) + √(x + 8 - 6√(x-1)) = 1.
+
+
+4. Banyaknya segitiga lancip yang semua sudutnya bilangan bulat dan salah satu sudutnya tiga kali lebih besar dari salah satu sudut yang lain adalah...
+
+
+5. Misalkan persamaan √(3x^2 - 8x + 1) + √(9x^2 - 24x - 8) = 3 memiliki akar-akar dimana salah satunya -k kali lipat lebih besar dari akar yang satunya lagi. Tentukan nilai dari k^2.
+
+
+6. Di suatu kebun binatang terdapat 40 pengunjung, 25 diantaranya adalah wanita. Diantara wanita tersebut ada 15 orang yang memakai arloji. Jika banyak pengunjung yang memakai arloji adalah 22 orang, maka berapa banyak pria yang tidak memakai arloji?
+
+
+7. Dua kotak masing-masing berisi lima bola dengan warna yang saling berbeda ; merah, biru, kuning, hijau, putih. Dari setiap kotak diambil sebuah bola. Peluang terambil sedikitnya satu bola dengan warna merah atau putih adalah...
+
+
+8. Jika konstanta dari ekspansi binomial (x^3 + a/x^2)^10 adalah 210, tentukan nilai dari a^2 - 1.
+
+
+9. Tunjukkan gcd(n^a - 1, n^b - 1) = n^(gcd(a,b) - 1).
+
+
+10. Diketahui 21! = 5109094x171709440000, berapakah nilai x?
+11. Misal ABCDEF adalah segienam beraturan. Titik G terdapat pada ED sehingga EG = 3GD. Jika luas AGEF 100, tentukan luas segienam ABCDEF.
+
+
+12. Bilangan terbesar n sehingga 8^n habis membagi 44^44 adalah...
+
+13. Tentukan banyaknya pasangan bilangan bulat (a,b) sehingga a/b = 12/21. Syaratnya a dan b diantara 100 sampai 1000.
+
+
+14. Suatu bilangan 4 digit dengan digit pertamanya boleh 0 memiliki bentuk 2 digit pertamanya dianggap tanggal atau bulan suatu hari dan 2 digit terakhir adalah sebaliknya. Contoh, 0205 bisa dianggap 2 Mei atau 5 Februari, karena belum jelas. Adapun bilangan dengan bentuk seperti itu dianggap "warbyasah" jika 2 digit pertamanya sudah pasti tanggal atau bulan suatu hari, misalnya 0215 sudah pasti 15 Februari. Selama 4 bulan Mei-Agustus, berapa hari yang bila dituliskan ke dalam 4 digit menjadi bilangan "warbyasah"? (0216 dan 1602 dianggap satu)
+
+
+15. Tentukan nilai dari 0.5 + 0.5 + 0.375 + 0.25 + ... + 10/1024.
+
+
+16. Misalkan sebuah segitiga sama sisi. Bila jari-jari lingkaran luarnya adalah 24 cm, maka tentukan jari-jari lingkaran dalamnya!
+
+
+17. Russell melempar dadu tiga kali. Misal angka pelemparan dadu berturut-turut adalah x, y, dan z. Jika x+y=z, maka tentukan peluang setidaknya ada satu nilai dari x,y, dan z adalah 2.
+
+
+18. Misalkan ada 2016 sembarang bilangan bulat positif, lalu didaftarkan tanpa diurut besarnya. Jika X adalah perkalian antara jumlah 2015 bilangan pertama dengan jumlah 2015 bilangan terakhir, dan Y adalah perkalian antara jumlah ke2016 bilangan tersebut dengan jumlah ke2014 bilangan tengah. Maka tentukan yang mana yang lebih besar, X atau Y? Jelaskan mengapa.
+
+
+19. Tentukan banyaknya pasangan bilangan bulat n dan m sehingga 1!+2!+3!+...+n!=m^2.
+
+
+20. Ayah dan Ibu masing - masing mengisi sebuah papan berpetak ukuran 16 × 10 dengan bilangan bulat dari 1 sampai 160, berurutan. Ayah mengisi secara menyamping, sedangkan Ibu mengisinya secara menurun. Bandingkan papan berpetak Ayah dengan Ibu. Kita pasti mendapat beberapa bilangan yang terdapat pada posisi yang sama. Tentukan jumlah dari bilangan-bilangan dengan posisi seperti keadaan di atas.
+
+
+21. Tentukan nilai n sehingga sistem persamaan 2x = 1 + ny dengan nx = 1 + 2y berada dalam keadaan tidak konsisten.

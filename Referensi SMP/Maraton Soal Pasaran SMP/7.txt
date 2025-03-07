@@ -1,0 +1,63 @@
+﻿Soal Persiapan OSN (Paket 7)
+
+1. Diberikan √(2x + y) + √(x^2 - 9) = 0. Tentukan nilai yang mungkin dari y - x.
+
+
+2. Berapa banyak solusi bilangan bulat (x,y,z) yang memenuhi xyz = 2008?
+
+
+3. Tentukan 2 digit terakhir dari 7^0 + 7^1 + 7^2 + 7^3 + 7^4 + ... + 7^2016.
+
+
+4. Pada segitiga ABC, AB 32 cm, AC 36 cm, BC 44 cm. Jika AM garis berat BC, tentukan AM dalam cm.
+
+
+5. Diketahui f(x) = (x^2016)/(x^2016 + (1-x)^2016). Tentukan nilai dari f(1/2017)+f(2/2017)+f(3/2017)+...+f(2016/2017)
+
+
+6. Jika 2016! = M × 10^k, dimana M adalah bilangan bulat yang tidak habis dibagi 10, tentukan nilai k.
+
+
+7. Banyak diagonal pada segi-31 adalah...
+
+
+8. Jumlah dari angka yang tidak dapat menjadi satuan dari jumlah suatu n bilangan bulat berurutan adalah...
+
+
+9. Banyaknya cara penempatan satu kuda hitam dan satu kuda putih pada papan catur 5 × 5 sedemikian sehingga keduanya tidak saling memakan adalah...
+
+
+10. Diberikan dua bilangan asli a, yang memiliki 9 pembagi positif dan b, memiliki 10 pembagi positif. Jika KPK a dan b adalah 4400, nilai dari a+b adalah...
+
+
+11. Russell sedang bermain kelereng dengan temannya. Pada permainan pertama, Russell kehilangan setengah kelerengnya. Pada permainan kedua, teman Russell kehilangan setengah kelerengnya. Pada permainan ketiga, Russell kehilangan 10 kelereng. Sekarang jumlah kelereng Russell dengan temannya berturut-turut 105 dan 75. Tentukan hasil kali jumlah kelereng
+ Russell dengan temannya mula-mula.
+
+
+12. Russell memiliki dua koin. Ia akan melakukan prosedur ini selama masih memiliki koin : lempar semua koin secara bersamaan, setiap koin yang muncul angka akan diberikan kepada temannya. Tentukan peluang bahwa Russell akan mengulangi prosedur ini lebih dari 3 kali!
+
+
+13. Russell memiliki saham. Setiap harinya saham memiliki peluang setengah setengah untuk naik atau turun sebanyak 2% saham awal. Tentukan peluang saham Russell pada hari ke-5 bernilai sama dengan nilai saham mula-mula!
+
+14. Pada segitiga ABC, terdapat titik D,E, dan F sehingga AD, BE, dan CF merupakan garis berat sisi BC, AC, dan AB berturut-turut. Ada berapa banyak segitiga yang terdapat pada segitiga AFBDCE?
+
+
+15. Tentukan faktor prima terbesar dari 99999744.
+
+
+16. Kubus ABCD.EFGH memiliki rusuk 12 cm. P, Q, dan R berturut-turut titik tengah EH, CD, dan AD. Tentukan jarak P ke QR.
+
+
+17. Sembarang segitiga ABC. Sudut ABC 100°, AM = AN dan CN = CP. Jika sudut MNP = x°, tentukan nilai x.
+
+
+18. Jika diketahui x = 2a^5 = 3b^2 untuk suatu a,b bilangan bulat positif, tentukan nilai x terkecil.
+
+
+19. Russell melempar dadu dua kali. Ia mencatat angka-angka hasil pelemparan, a dan b. Tentukan peluang Russell melempar dadu sehingga persamaan kuadrat x^2 + ax + b = 0 memiliki akar real.
+
+
+20. Russell melempar dadu dua kali. Ia mencatat angka-angka hasil pelemparan, a dan b. Tentukan peluang Russell melempar dadu sehingga ada suatu x,y,z bilangan real yang memenuhi : x + y + z = a dan x^2 + y^2 + z^2 = b.
+
+
+21. Tentukan nilai x bilangan bulat positif yang memenuhi persamaan : x^5 - 101x^3 - 999x^2 + 100900 = 0.

@@ -1,0 +1,22 @@
+Soal Persiapan OSN (Paket 8)
+1. Jika x - y = 8 dan x^2 + y^2 = 194. Tentukan xy.
+2. Jika a^3 - b^3 = 24 dan a - b = 2, tentukan nilai dari (a + b)^2.
+3. Buktikan 11^10 - 1 adalah kelipatan 100.
+4. Jika a = - √3 + √5 + √7, b = √3 - √5 + √7, dan c = √3 + √5 - √7, tentukan nilai dari a^4/(a-b)(a-c) + b^4/(b-a)(b-c) + c^4/(c-a)(c-b).
+5. Misalkan a, b, c, d, e, f, g, dan h adalah bilangan bulat positif sehingga a^2 + 4b^2 + 9c^2 + 16d^2 + 25e^2 + 36f^2 + 49g^2 + 64h^2 = 204. Tentukan nilai dari a + b + c + d + e + f + g + h.
+6. Saya punya lima korek api dengan panjang 2, 3, 4, 5, dan 6 cm. Berapa banyak segitiga dari korek api yang dapat saya buat?
+7. Sebuah uang koin dilambungkan 600 kali. Tentukan ekspektasi munculnya gambar.
+8. Buktikan (a-b)(a-c)(a-d)(b-c)(b-d)(c-d) adalah kelipatan 12 untuk setiap a,b,c,d bilangan bulat.
+9. Di dalam suatu ruangan terdapat 2n orang yang saling bersalaman. Setiap dua orang bersalaman maksimal sekali. Jika jumlah salam dalam ruangan itu adalah 435 salam. Tentukan nilai n.
+10. Tentukan banyaknya rute terpendek Russell berjalan ke kota X melalui sebuah taman berpetak 9 × 5?
+11. Tentukan banyak cara menyusun panitia terdiri dari 4 wanita dan 3 pria, yang dipilih dari 9 pria dan 7 wanita.
+12. Jika m dan n bilangan bulat positif lebih dari 1, dan memenuhi 2016^2 + m^2 = 2015^2 + n^2, tentukan nilai m+n.
+13. Terdapat tembereng minor ADB dengan AB tali busur dari sebuah lingkaran sehingga CD garis sumbu tali busur AB. Jika AB = 16 cm dan CD = 4 cm, tentukan diameter lingkaran tersebut!
+14. ABCDEF adalah segienam beraturan. Tentukan perbandingan luas ABCDEF dengan luas segitiga ACD.
+15. Dalam sebuah segiempat ABCD, AD sama dengan AB, sudut DAB sama dengan sudut DCB sama juga dengan sudut AEC = 90°. Jika AE = 5, tentukan luas ABCD.
+16. Dalam sebuah kotak berisi 7 kelereng merah dan 5 kelereng putih. Dari kotak itu diambil 3 kelereng sekaligus secara acak. Peluang terambil sekurang-kurangnya 1 kelereng putih adalah...
+17. Jika x^2 - 3x + 1=0, tentukan nilai dari x^5 + x^3 + x^-5 + x^-3.
+18. Parabola y = 2x^2 - 3x - 5 berpotongan dengan garis 2x - y - 2 = 0 pada P dan Q. Tentukan jarak PQ.
+19. Setiap sisi suatu kubus dituliskan sebuah bilangan asli. Setiap titik sudutnya diberi nilai yang merupakan hasil kali tiga sudut yang berpotongan pada titik sudut tersebut. Jika jumlah semua bilangan pada titik-titik sudut kubus sama dengan 1001, tentukan jumlah semua bilangan pada sisi-sis kubus tersebut.
+20. Terdapat lingkaran a, b, dan c yang berturut-turut berpusat di titik A, B, dan C. Misal lingkaran a menyinggung lingkaran b dan lingkaran b menyinggung lingkaran c, namun lingkaran c tidak menyinggung lingkaran a. Segitiga ABC ternyata siku-siku di B. Jika radius a = 1 cm dan radius b = 4 cm, tentukan radius c.
+21. Dari 36 orang peserta OSP akan dipilih juara 1, 2, 3, harapan 1, 2, dan 3. Banyaknya cara memilih juara tersebut adalah...

@@ -1,0 +1,63 @@
+﻿Soal Persiapan OSN (Paket 4)
+
+1. Dalam segitiga ABC, AC adalah 2AB dan sudut A adalah 2 kali sudut C. Buktikan AB tegak lurus BC.
+
+
+2. Pada segitiga CAP, CA = 5. Titik B terletak pada AP sehingga BC = 6 dan AB = 4 dan BP = 2. Tentukan panjang CP.
+
+
+3. Tentukan nilai a sehingga persamaan kuadrat (a^2-a-9)x^2-6x-a = 0 memiliki dua akar real positif yang berbeda.
+
+
+4. Diketahui a^2+a^-2 = 4. Tentukan nilai dari a^6+a^-6.
+
+
+5. Jika x = 0.5+√502.25, maka tentukan nilai dari (x^3-503x-500)^10.
+
+
+6.  Misalkan A,B,C,D,E, dan F adalah titik-titik pada sebuah lingkaran sehingga busur AB = busur BC = busur CD = busur DE = busur EF = busur FA. Jika sudut ACE 72°, tentukan besar sudut DFB.
+
+
+7. Tentukan bilangan prima terbesar yang lebih kecil dari 5000 dengan bentuk a^n - 1. Dimana a dan n adalah bilangan bulat positif dan n lebih besar dari 1. Dari sini kita dapat membuktikan kontradiksi dari teori Mersenne.
+
+
+8. Tentukan koefisien x^29 dari ekspansi (1+x^4+x^5+x^9)^16.
+
+
+9. Hitunglah (77-20√13)^0.3333...+(77+20^13)^0.3333...
+
+
+10. ABC adalah segitiga siku-siku dengan sudut A 90°. Misalkan ada persegi DBAE dan BCFG di luar segitiga ABC. Bila luas ABDE 8 cm^2 dan luas BCFG 26 cm^2, maka tentukan luas DBG dalam cm^2.
+
+
+11. Sebuah segilima dan sebuah persegi panjang saling berpotongan membentuk sebuah trapesium. Diketahui luas trapesium adalah 3/16 dari luas segilima dan 2/9 dari luas persegi panjang. Jika rasio dari luas bagian segilima dan luas bagian persegi panjang yang masing-masing tidak saling berpotongan adalah m/n dalam bentuk sederhananya. Tentukan m+n.
+
+
+12. Lingkaran k dan l saling menyinggung dan keduanya menyinggung suatu garis AB. Lingkaran m menyinggung lingkaran k, lingkaran l, dan garis AB. Lingkaran n menyinggung garis AB, lingkaran k, dan lingkaran m. Bila jari-jari lingkaran k dan l sama, yaitu 360. Maka tentukan jari-jari lingkaran n.
+
+
+13. Jika n dan (n^2 + 204n)^0.5 adalah bilangan bulat positif, tentukan nilai n terbesar.
+
+
+14. Suatu benda yang dikenakan diskon 10% dikenakan lagi diskon 20%. Ternyata harga akhir benda tersebut sama dengan harga benda tersebut didiskon sekali sebesar x%. Tentukan nilai x.
+
+
+15. Bila a,b,x, dan y memenuhi persamaan : (1) ax+by=7 ; (2) ax^2+by^2 = 49 ; (3) ax^3+by^3 = 133 ; (4) ax^4+by^4 = 406. Tentukan nilai dari 2014(x+y-xy)-100(a+b).
+
+
+16. Bila a,b,x, dan y memenuhi persamaan : (1) ax+by=3 ; (2) ax^2+by^2 = 7 ; (3) ax^3+by^3 = 16 ; (4) ax^4+by^4 = 42. Tentukan nilai dari ax^5+by^5.
+
+
+17. Berapa hasil kali dari semua solusi x yang memenuhi : (x^2+27x+333)/3=(x^2+27x+361)^0.5?
+
+
+18. Tentukan sisa pembagian ketika ((10^2007-1)/9)^2006 - 666...66665 dibagi 11. (666...66665 memiliki angka 6 sebanyak 2001)
+
+
+19. Russell memiliki kotak berisi 5 bola, masing-masing bernomor 1,2,3,4, dan 5. Russell mengambil bola secara acak tanpa melihat ke dalam kotak. Ia mencatat nomor yang tertera pada bola tersebut, lalu mengembalikan bola tersebut ke dalam kotak. Jika ia mengulangi prosedur ini 5 kali, dan jumlah dari nomor bola-bola yang terambil adalah 15, maka berapa peluang bola yang terambil selalu bernomor 4?
+
+
+20. Russell memiliki 1000 gelas. Salah satu diantaranya cacat dan selalu lebih ringan daripada sebuah gelas normal. Ia tidak tahu secara pasti yang mana yang merupakan gelas cacat. Ia memiliki sebuah neraca dua lengan yang dapat mengukur berat apa saja, tentu bisa untuk menimbang gelas-gelas tersebut. Berapa kali minimal penimbangan dengan neraca tersebut sehingga ia PASTI dapat mengetahui gelas yang cacat?
+
+
+21. Tentukan digit terakhir dari 2^2+21^21+212^212+2120^2120+21201^21201+212015^212015.
