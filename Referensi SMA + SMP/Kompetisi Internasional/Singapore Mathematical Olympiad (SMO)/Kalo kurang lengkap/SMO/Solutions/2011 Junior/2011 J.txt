@@ -1,0 +1,39 @@
+SMO 2011 Junior Special Round Participants List
+##Click here for errors in SMO 2011 Solution Book's Junior Rd 1 Q16, 19, 26 and 28. Document is prepared by wmdsg.
+1. D
+2. C
+3. C
+4. B
+5. B
+6. A
+7. B
+8. E
+9. C
+10. E
+11. 2
+12. 5
+13. 3
+14. 129
+15. 0
+16. 7981 (3 Sep: answer in solution book is 9241 - refer to ## above)
+17. 224
+18. 1001
+19. 256 (3 Sep: answer in solution book is 16 - refer to ##)
+20. 4022
+21. 101
+22. 19
+23. 169
+24. 288
+25. 14
+26. 3 (3 Sep: answer in solution book is 350 - refer to ##)
+27. 19
+28. 10301(? see ** below and ##)
+29. 15
+30. 109
+31. 4
+32. 98
+33. 30
+34. 4022
+35. 10
+*Answers for Qn 14 and Qn 19 are provided by sz and wmdsg, respectively. Thanks.
+** Lim Li: as pointed out by GeNiUs in comments, there may be something wrong with Qn 28. The answer is unknown at the moment.

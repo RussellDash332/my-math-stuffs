@@ -1,0 +1,38 @@
+SMO 2012 (Junior Section) Answers
+SMO 2012 Junior Special Round Participants List
+COP for Special Round - 8, about 4.7% (~185/3959 participants) selected
+1. D
+2. E
+3. B
+4. B
+5. A
+6. D
+7. D
+8. B
+9. D (*C)
+10. C
+11. 4
+12. 25
+13. 9
+14. 2996
+15. 110
+16. 93
+17. 50
+18. 35
+19. 58
+20. 1818
+21. 4
+22. 375
+23. 3
+24. 23
+25. 108
+26. 468
+27. 240
+28. 200
+29. 3150
+30. 6720 (half cut not allowed) / 40320 (half cut allowed) (*840 - does not consider horizontal cut)
+31. 27
+32. 1
+33. 12
+34. 1977 (*1976 - answer should be odd number)
+35. 12
